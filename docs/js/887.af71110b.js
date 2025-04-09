@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkportfolio_website"]=self["webpackChunkportfolio_website"]||[]).push([[887],{887:(e,p,s)=>{e.exports=s.p+"media/2.f60095a5.mp4"}}]);

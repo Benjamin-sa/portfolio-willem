@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkportfolio_website"]=self["webpackChunkportfolio_website"]||[]).push([[886],{886:(e,o,p)=>{e.exports=p.p+"img/Artboard 1 kopie.6614bcb4.jpg"}}]);
