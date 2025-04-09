@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkportfolio_website"]=self["webpackChunkportfolio_website"]||[]).push([[395],{395:(e,s,p)=>{e.exports=p.p+"img/ROBOTOAD character design.4b33bbe5.jpg"}}]);
