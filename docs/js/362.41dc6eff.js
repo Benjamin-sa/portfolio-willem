@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkportfolio_website"]=self["webpackChunkportfolio_website"]||[]).push([[362],{362:(e,o,s)=>{e.exports=s.p+"img/Poster Liver and Bone.8b08ea26.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkportfolio_website"]=self["webpackChunkportfolio_website"]||[]).push([[268],{268:(e,p,s)=>{e.exports=s.p+"img/Skylander character design  kopie.a08daa65.jpg"}}]);
