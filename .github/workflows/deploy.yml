@@ -26,6 +26,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build # or dist, depending on where your build outputs
+          folder: dist # Changed from build to dist (Vue.js default output)
           branch: gh-pages
           clean: true
