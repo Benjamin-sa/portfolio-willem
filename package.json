@@ -29,6 +29,7 @@
     "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4"
   },
+  "homepage": "https://Benjamin-sa.github.io/portfolio-willem",
   "eslintConfig": {
     "root": true,
     "env": {
