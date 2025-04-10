@@ -7,8 +7,8 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "lint:fix": "vue-cli-service lint --fix",
-    "deploy": "npm run build",
-    "deploy:local": "npm run build && git add dist -f && git commit -m 'deploy to gh-pages' && git push"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "core-js": "^3.8.3",
@@ -27,6 +27,7 @@
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
     "fs-extra": "^11.1.1",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4"
   },
